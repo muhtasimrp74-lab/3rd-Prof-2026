@@ -12,6 +12,28 @@ Weekly routine:
 - Last day of each week: 30 min recall per subject on that week's units. Log gaps in WEAK-TOPICS.md.
 - Every study day: write 1 answer (SAQ/SEQ) in the main subject. Log errors in MISTAKES.md.
 
+## Community Medicine units (from COMMUNITY-MEDICINE/TOPICS.md)
+
+BMDC hours: Lecture (L) / Tutorial (T). Part 1 = CM-01 to 03 (L 20 / T 30). Part 2 = CM-04 to 15 (L 90 / T 130).
+
+| ID | Unit | L / T |
+| -- | ---- | ----- |
+| CM-01 | Concept of Public Health, Community Medicine, Health and Disease | 10 / 10 |
+| CM-02 | Behavioural Science | 6 / 10 |
+| CM-03 | Health Communication and Health Education | 4 / 10 |
+| CM-04 | Medical Entomology | 4 / 6 |
+| CM-05 | Biostatistics | 4 / 8 |
+| CM-06 | Environment and Health | 10 / 12 |
+| CM-07 | Immunity, Immunization | 4 / 8 |
+| CM-08 | Public Health Nutrition | 8 / 8 |
+| CM-09 | Principles of Epidemiology | 10 / 16 |
+| CM-10 | Epidemiology of Communicable and Non-Communicable Disease (NCDs) | 25 / 36 |
+| CM-11 | MCH-FP and Demography | 9 / 16 |
+| CM-12 | School Health Services | 4 / 4 |
+| CM-13 | Occupational Health | 4 / 6 |
+| CM-14 | Health For All (HFA), Primary Health Care (PHC) and MDG | 5 / 6 |
+| CM-15 | Public Health Administration and Management | 3 / 4 |
+
 ## Phase overview
 
 | Dates | Focus | Path h/day | Micro h/day | CM h/day |
@@ -42,10 +64,10 @@ Weekly routine:
 - Immunology remainder (IM-08 to 13) continues into week 2
 
 **Community Medicine (first pass, light units)**
-- 6–7 Oct: CM-01 Concept of PH/Health/Disease
-- 8 Oct: CM-02 Behavioural Science
-- 9–10 Oct: CM-03 Health Communication and Education
-- 11 Oct: CM-04 Medical Entomology
+- 6–7 Oct: CM-01 Concept of Public Health, Community Medicine, Health and Disease (L10 / T10)
+- 8 Oct: CM-02 Behavioural Science (L6 / T10)
+- 9–10 Oct: CM-03 Health Communication and Health Education (L4 / T10)
+- 11 Oct: CM-04 Medical Entomology (L4 / T6)
 - 12 Oct: recall of CM-01 to 04
 
 ## Week 2 — 13–19 Oct
@@ -62,18 +84,18 @@ Weekly routine:
 - 14–19 Oct: MICRO-SB-01 to 08 (Staph, Strep, Neisseria, Corynebacterium, Enterobacteriaceae, Vibrio, Helicobacter, Mycobacterium)
 
 **Community Medicine (first pass)**
-- 13–15 Oct: CM-05 Research Methodology and Biostatistics
-- 16 Oct: CM-06 Environment and Health
-- 17 Oct: CM-07 Immunization
-- 18 Oct: CM-08 Public Health Nutrition
+- 13 Oct: CM-05 Biostatistics (L4 / T8)
+- 14–15 Oct: CM-06 Environment and Health (L10 / T12)
+- 16 Oct: CM-07 Immunity, Immunization (L4 / T8)
+- 17–18 Oct: CM-08 Public Health Nutrition (L8 / T8)
 - 19 Oct: recall of CM-05 to 08
 
 ## Week 3 — 20–26 Oct (CM main)
 
 **Community Medicine (first pass, heavy units)**
-- 20–21 Oct: CM-09 Principles of Epidemiology
-- 22–24 Oct: CM-10 Epidemiology of CD and NCD (largest unit: L15 / T30)
-- 25 Oct: CM-11 MCH-FP and Demography
+- 20–21 Oct: CM-09 Principles of Epidemiology (L10 / T16)
+- 22–24 Oct: CM-10 Epidemiology of Communicable and Non-Communicable Disease (largest unit: L25 / T36)
+- 25 Oct: CM-11 MCH-FP and Demography (L9 / T16)
 - 26 Oct: recall of CM-09 to 11
 
 **Pathology (1.5 h/day)**
@@ -87,13 +109,13 @@ Weekly routine:
 ## Week 4 — 27 Oct–2 Nov (CM intensive)
 
 **Community Medicine**
-- 27 Oct: CM-12, 13 (School health, Occupational health)
-- 28 Oct: CM-14 HFA/PHC/UHC/MDG/SDG
-- 29 Oct: CM-15 Public Health Administration
+- 27 Oct: CM-12 School Health Services (L4 / T4), CM-13 Occupational Health (L4 / T6)
+- 28 Oct: CM-14 Health For All (HFA), Primary Health Care (PHC) and MDG (L5 / T6)
+- 29 Oct: CM-15 Public Health Administration and Management (L3 / T4)
 - 30 Oct–2 Nov: revision pass 1 of all 15 units from memory + past questions; fill WEAK-TOPICS.md
   - 30 Oct: CM-01 to 05
   - 31 Oct: CM-06 to 09
-  - 1 Nov: CM-10 (NCD + CD tables, programmes)
+  - 1 Nov: CM-10 (communicable and non-communicable diseases)
   - 2 Nov: CM-11 to 15
 
 **Pathology (1 h/day)**
@@ -132,7 +154,7 @@ Suggested: take the morning of 6 Nov easy, then start.
 
 - Pathology systemic (13 units) is mostly first-pass during 6–11 Nov. Any slack before 5 Nov should go to PATH-2A first.
 - Virology, Mycology and Clinical Microbiology are first-pass only during 6–11 Nov at 2 h/day. Tight but workable.
-- CM-10 (CD and NCD) has the highest BMDC hours. Do not shortchange it.
+- CM-10 (Epidemiology of CD and NCD) has the highest BMDC hours (L25 / T36). Do not shortchange it.
 
 ## Rule
 
